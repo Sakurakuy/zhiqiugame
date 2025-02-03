@@ -1,11 +1,13 @@
 const gamesList = [
     {
         title: "游戏1",
-        link: "https://www.yuanmawu.net/category/website/%e5%bd%b1%e8%a7%86%e5%b0%8f%e8%af%b4"
+        pcLink: "https://www.example.com/pc-game1", // 替换为实际的电脑下载链接
+        androidLink: "https://www.example.com/android-game1" // 替换为实际的安卓下载链接
     },
     {
         title: "游戏2",
-        link: "https://pan.baidu.com/s/your_link_2"
+        pcLink: "https://www.example.com/pc-game2", // 替换为实际的电脑下载链接
+        androidLink: "https://www.example.com/android-game2" // 替换为实际的安卓下载链接
     }
-    // 您可以随时在这里添加更多游戏
-]; 
+    // 可以继续添加更多游戏
+];
