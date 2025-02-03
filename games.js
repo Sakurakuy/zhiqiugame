@@ -1,7 +1,7 @@
 const gamesList = [
     {
         title: "游戏1",
-        link: "https://pan.baidu.com/s/your_link_1"
+        link: "www.baidu.com"
     },
     {
         title: "游戏2",
