@@ -1,7 +1,7 @@
 const gamesList = [
     {
         title: "游戏1",
-        link: "https://www.baidu.com"
+        link: "https://www.yuanmawu.net/category/website/%e5%bd%b1%e8%a7%86%e5%b0%8f%e8%af%b4"
     },
     {
         title: "游戏2",
