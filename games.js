@@ -10,9 +10,9 @@ const gamesList = [
         androidLink: "https://pan.baidu.com/s/1Lj46SIk-nZjqayMy_eOoKg?pwd=e8er" // 替换为实际的安卓下载链接
     },
     {
-        title: "特工17v0.24.8",
-        pcLink: "https://pan.baidu.com/s/1PgFxkaMARSXK2EJT3QJOCg?pwd=8it2",
-        androidLink: "https://pan.baidu.com/s/1Z903-HwxmeCY2GC2TP5X7w?pwd=bqdr"
+        title: "特工17v0.25.3",
+        pcLink: "https://pan.baidu.com/s/1PzlLyKdJ2Q5r1axVMqqU9Q?pwd=E8X9",
+        androidLink: "https://pan.baidu.com/s/1PzlLyKdJ2Q5r1axVMqqU9Q?pwd=E8X9"
     },
     {
         title: "二次人生：永恒不再 0.8",
